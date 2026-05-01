@@ -1,0 +1,11 @@
+# file ausiliari di LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+#*.pdf #questa riga poi la posso scommentare quando il pdf sarà quasi pronto e mi servirà
+# eventuali cartelle di sistema (su mac solitamente)
+.DS_Store
