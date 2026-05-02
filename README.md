@@ -5,7 +5,7 @@ Un template LaTeX pulito, leggero e pronto all'uso per la stesura della tesi di 
 Questo progetto è una **versione rielaborata, semplificata e ottimizzata per la compilazione in locale** del template ufficiale realizzato dal gruppo di ricerca [SisInfLab](http://sisinflab.poliba.it/) del **Politecnico di Bari**. 
 
 ## 💡 Perché questo template?
-Il template originale (disponibile su [Overleaf](https://www.overleaf.com/latex/templates/politecnico-di-bari-sisinflab-thesis-template/ndsfpdvnqtdf)) è eccellente, ma può risultare un po' pesante o complesso se si vuole lavorare comodamente offline sul proprio computer. In questa repository ho:
+Il template originale (disponibile su [Overleaf](https://www.overleaf.com/latex/templates/politecnico-di-bari-sisinflab-thesis-template/ndsfpdvnqtdf)) è eccellente, ma risulta complesso rispetto ai comandi che uso e conosco io, per questo ho:
 - **Semplificato la struttura** rimuovendo file o pacchetti superflui.
 - Adattato il codice al mio stile per renderlo più leggibile.
 - Predisposto l'ambiente per una facile **compilazione in locale** (senza dipendere da Overleaf).
