@@ -6,9 +6,11 @@
 *.out
 *.synctex.gz
 *.toc
-*.pdf #questa riga poi la posso commentare quando il pdf sarà quasi pronto e mi servirà
 *.bbl
-*.big
+*.blg
+
+# questa riga sotto poi si può commentare o rimuovere quando ti servirà il file pdf finito e pronto all'uso
+*.pdf
 
 # eventuali cartelle di sistema (su mac solitamente)
 .DS_Store
