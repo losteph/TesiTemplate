@@ -23,8 +23,8 @@ Per utilizzare questo template in locale sul tuo PC, avrai bisogno di:
 
 ## 📂 Struttura del Progetto
 
-Ho aggiunto una versione italiana ed una inglese. Nota: è presente anche un file ```.gitignore``` perché da locale, a differenza se si usa overleaf,
-verranno prodotti una serie di file superflui necessari solo alla compilazione (aggiungendo questo file, tutti i documenti con le estensioni non neccessarie non vengono poi caricati qua).
+Ho aggiunto una versione italiana ed una inglese. Nota: è presente anche un file ```.gitignore``` perché da locale, a differenza di quando si usa overleaf,
+verranno prodotti una serie di file superflui necessari solo alla compilazione (aggiungendo questo file, tutti i documenti con le estensioni non neccessarie non verranno poi caricate qua).
 
 ```text
 ├── 0_main.tex                  # File principale da compilare
